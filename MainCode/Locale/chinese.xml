@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="zh" ReadableName="中文" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+  
+  	<!--Mod Name-->
+	<Translation ID="IINSEI_MOD_NAME" String="擴展訊息面板 （Extended InfoPanel）" />
+	<Translation ID="IINSEI_MOD_DESCRIPTION" String="在遊戲底部面板中增加更多功能和顯示更多數據與資訊。" />
+ 	<Translation ID="IINSEI_MOD_VERSION" String="(2.0.0)" />
+ 	
+ 	<Translation ID="IINSEI_CITY_NAME" String="大都會城市：天際線" />
+ 	<Translation ID="IINSEI_UNIT_MONEY" String="NT$" />
+ 	<Translation ID="IINSEI_UNIT_THOUSAND" String="K" />
+ 	<Translation ID="IINSEI_POPULATION_INSTANCES" String="市民實體:" />
+ 	<Translation ID="IINSEI_RADIO_TOGGLE" String="重複點擊 “啟用或不啟用” 城市電臺 " />
+ 	<Translation ID="IINSEI_AUDIO_MUTE" String="重複點擊 “啟用或不啟用” 靜音" />
+ 	<Translation ID="IINSEI_CLICK_LEFT" String="左鍵點擊： " />
+ 	<Translation ID="IINSEI_CLICK_RIGHT" String="右鍵點擊： " />
+ 	
+ 	<Translation ID="IINSEI_CHIRPER_TOOLTIP" String="重複點擊 “開啟或關閉” 小啾啾圖標。" />
+ 	<Translation ID="IINSEI_SPEED_TOOLTIP" String="有6種速度模式，合並來自 “More Simulation Speed Options” 模組。 &#xA; &#xA; 速度級別: 1倍, 2倍, 4倍, 6倍, 9倍, 99倍  " />
+ 	<Translation ID="IINSEI_DAYTIME_TOOLTIP" String="遊戲內模擬的 “一天” 24小時時間。此時間可以被任何相關模組隨意更改。 重複點擊 “開啟或關閉” 此時間顯示。" />
+ 	<Translation ID="IINSEI_REALWORLDTIME_TOOLTIP" String="真實世界24小時時間，是您所在的地點的地球時間。 重複點擊切換 “真實世界”時間 和 “已玩了多久遊戲” 時間。" />
+ 	<Translation ID="IINSEI_TEMPERATURE_TOOLTIP" String="7種顏色顯示溫度狀況。 &#xA;&#xA; 紅色為 “烈焰熔爐” &#xA; 橙色為 “酷熱難耐” &#xA; 黃色為 “艷陽高照” &#xA; 綠色為 “宜居天堂” &#xA; 淺綠為 “秋盡冬來” &#xA; 淺藍為 “寒風刺骨” &#xA; 藍色為 “極凍煉獄”  " />
+ 	
+ 	<!--If combined "Date Changer", use those 3.-->
+ 	<!--Translation ID="IINSEI_DATE_FORMAT_TOOLTIP" String="日期格式： 日/月/年（dd/mm/yyyy）" /-->
+ 	<!--Translation ID="IINSEI_BUTTON_CHANGE" String="更改日期" /-->
+ 	<!--Translation ID="IINSEI_ERROR_DESCRIPTION" String="無效的日期格式, 請確定格式為 “日/月/年（dd/mm/yyyy）”. 例如：10/10/1911" /-->
+ 	
+  </Translations>
+</Language>

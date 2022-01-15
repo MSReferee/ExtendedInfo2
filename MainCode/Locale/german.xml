@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="de" ReadableName="Deutsch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+  
+  	<!--Mod Name-->
+	<Translation ID="IINSEI_MOD_NAME" String="Extended InfoPanel" />
+	<Translation ID="IINSEI_MOD_DESCRIPTION" String="Zeige weitere Informationen im unteren Bereich der Spieloberfläche an." />
+ 	<Translation ID="IINSEI_MOD_VERSION" String="(2.0.0)" />
+ 	
+ 	<Translation ID="IINSEI_CITY_NAME" String="Cities: Skylines" />
+ 	<Translation ID="IINSEI_UNIT_MONEY" String="€" />
+ 	<Translation ID="IINSEI_UNIT_THOUSAND" String="k" />
+ 	<Translation ID="IINSEI_POPULATION_INSTANCES" String="Instanzen:" />
+ 	<Translation ID="IINSEI_RADIO_TOGGLE" String="Anklicken, um das Radio auf 'Aktiviert oder Deaktiviert' zu schalten" />
+ 	<Translation ID="IINSEI_AUDIO_MUTE" String="Anklicken, um den Ton zu stumm zu schalten oder zu aktivieren" />
+ 	<Translation ID="IINSEI_CLICK_LEFT" String="Linker Mausklick: " />
+ 	<Translation ID="IINSEI_CLICK_RIGHT" String="Rechter Mausklick: " />
+ 	
+ 	<Translation ID="IINSEI_CHIRPER_TOOLTIP" String="Anklicken um Chirper anzuzeigen oder auszublenden" />
+ 	<Translation ID="IINSEI_SPEED_TOOLTIP" String="Es gibt 6 Geschwindigkeitslevel wie bei der 'More Simulation Speed Options' Mod. &#xA; &#xA; Geschwindigkeitslevelevel: 1x, 2x, 4x, 6x, 9x, 99x  " />
+ 	<Translation ID="IINSEI_DAYTIME_TOOLTIP" String="Die Tageszeit im Spiel. Anklicken um zwischen 'Aktiviert' und 'Deaktiviert' umzuschalten." />
+ 	<Translation ID="IINSEI_REALWORLDTIME_TOOLTIP" String="Anklicken um zwischen 24-Stunden Echtzeit und In-Game-Zeit umzuschalten." />
+ 	<Translation ID="IINSEI_TEMPERATURE_TOOLTIP" String="Es gibt 7 farbige Level für Temperaturen. &#xA;&#xA; Rot für 'Flammendes Inferno' &#xA; Orange für 'Die Hitze ist unerträglich ' &#xA; Gelb für 'Hitzewelle' &#xA; Grün für 'Lebenswertes Paradies ' &#xA; Hellgrün für 'Der Herbst endet und der Winter kommt' &#xA; Hellblau für 'Im beißend kalten Wind ' &#xA; Blau für 'Gefrorenes Fegefeuer" />
+ 	
+  </Translations>
+</Language>

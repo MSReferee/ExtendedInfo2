@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="en" ReadableName="English" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+  
+  	<!--Mod Name-->
+	<Translation ID="IINSEI_MOD_NAME" String="Extended InfoPanel" />
+	<Translation ID="IINSEI_MOD_DESCRIPTION" String="Show more information data in game bottom panel." />
+ 	<Translation ID="IINSEI_MOD_VERSION" String="(2.0.0)" />
+ 	
+ 	<Translation ID="IINSEI_CITY_NAME" String="Cities: Skylines" />
+ 	<Translation ID="IINSEI_UNIT_MONEY" String="NT$" />
+ 	<Translation ID="IINSEI_UNIT_THOUSAND" String="K" />
+ 	<Translation ID="IINSEI_POPULATION_INSTANCES" String="Instances:" />
+ 	<Translation ID="IINSEI_RADIO_TOGGLE" String="Repeat to click for toggle Radio 'Enable or Disable'" />
+ 	<Translation ID="IINSEI_AUDIO_MUTE" String="Repeat to click for 'Enable or Disable' Mute Audio" />
+ 	<Translation ID="IINSEI_CLICK_LEFT" String="Left Click: " />
+ 	<Translation ID="IINSEI_CLICK_RIGHT" String="Right Click: " />
+ 	
+ 	<Translation ID="IINSEI_CHIRPER_TOOLTIP" String="Repeat to click for 'Open or Close' Chirper icon." />
+ 	<Translation ID="IINSEI_SPEED_TOOLTIP" String="There are 6 levels of speed changing which combine from 'More Simulation Speed Options' mod. &#xA; &#xA; Speed Level: x1, x2, x4, x6, x9, x99  " />
+ 	<Translation ID="IINSEI_DAYTIME_TOOLTIP" String="'A Day' 24 hours simulation time of In-Game. This time can be changed by other mods anytime. &#xA; Repeat to click for 'Enable or Disable' display this time." />
+ 	<Translation ID="IINSEI_REALWORLDTIME_TOOLTIP" String="The 24 hours of real world, it's earth time of your location. Repeat to click for switch 'Real World Time' and 'Played In-Game Time'. " />
+ 	<Translation ID="IINSEI_TEMPERATURE_TOOLTIP" String="There are 7 colored dispaly mode for temperature. &#xA;&#xA; Red for 'Flame Furnace' &#xA; Orange for 'The Heat is Unbearable' &#xA; Yellow for 'Heat Wave' &#xA; Green for 'Livable Paradise' &#xA; Light Green for 'Autumn end Winter come' &#xA; Light Blue for 'In the Biting Cold Wind' &#xA; Blue for 'Frozen Purgatory' " />
+ 	
+ 	<!--If combined "Date Changer", use those 3.-->
+ 	<!--Translation ID="IINSEI_DATE_FORMAT_TOOLTIP" String="Date Format: dd/mm/yyyy" /-->
+ 	<!--Translation ID="IINSEI_BUTTON_CHANGE" String="Change Date" /-->
+ 	<!--Translation ID="IINSEI_ERROR_DESCRIPTION" String="Invalid Date Format, Make sure to format as dd/mm/yyyy. e.g 31/01/2019" /-->
+ 	
+  </Translations>
+</Language>
